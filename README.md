@@ -1,3 +1,0 @@
-Stack
--html
--javascript
